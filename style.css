@@ -57,8 +57,10 @@ a {
     font-size: 25px;
     color: #05386B;
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
     align-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 #zooma {
