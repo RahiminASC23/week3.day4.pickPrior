@@ -29,7 +29,7 @@ function preload() {
 }
 
 function setup() {
-   createCanvas(500, 500);
+   createCanvas(600, 600);
    noStroke();
 
    for (let i = 0; i < 50; i++) {

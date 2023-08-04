@@ -38,7 +38,7 @@ body {
     color: #EDF5E1;
 }
 
-#home-body{
+.home-body{
     padding-left: 150px;
     padding-right: 150px;
     display: flex;
@@ -53,12 +53,15 @@ a {
     text-decoration: none;
 }
 
-.paras {
-    margin-top: 15px;
-    margin-bottom: 15px;
+.credit-body {
+    font-size: 25px;
+    color: #05386B;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-#special {
-    color: #fffc65;
-    font-style: italic;
+#zooma {
+    width: 550px;
+    height: auto;
 }
